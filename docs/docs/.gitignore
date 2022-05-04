@@ -1,0 +1,11 @@
+
+*~
+/node_modules/
+/spell/
+/.vault.vim
+/.local.vimrc
+/.stignore
+/.stfolder
+/.stversions
+.vim
+.DS_Store

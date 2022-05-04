@@ -1,5 +1,5 @@
 {
-    "title": "无为徐生",
+    "title": "书法练习",
     "language": "zh-hans",
     "links": {
         "sidebar": {
@@ -7,14 +7,15 @@
             "xushufa": "https://xushufa.cn"
         }
     },
-    "plugins": ["-sharing", "sharing-plus", "lightbox", "page-toc-button"],
+    "plugins": ["-sharing", "sharing-plus", "lightbox", "theme-beauty"],
     "pluginsConfig": {
         "sharing": {
             "all": []
         },
-        "page-toc-button": {
-            "maxTocDepth": 2,
-            "minTocSize": 2
+        "theme-beauty":{
+            "search-placeholder":"输入关键字搜索", 
+            "logo":"./logo.jpg", 
+            "favicon": "./favicon.ico" 
         }
     }
 
